@@ -1,0 +1,3 @@
+﻿# com.heatit.HeatitZWaveThermostat
+
+

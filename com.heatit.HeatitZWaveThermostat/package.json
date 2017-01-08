@@ -1,0 +1,9 @@
+{
+  "name": "com.heatit.heatit-zwave-thermostat",
+  "version": "0.0.0",
+  "description": "com.heatit.HeatitZWaveThermostat",
+  "main": "app.js",
+  "author": {
+    "name": "Dave.Deelen"
+  }
+}
