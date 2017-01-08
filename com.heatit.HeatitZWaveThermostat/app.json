@@ -1,1 +1,16 @@
-﻿
+﻿{
+    "id": "com.heatit",
+    "version": "0.0.1",
+    "compatibility": "1.x",
+    "category": "Climate",
+    "name": {
+        "en": "Heatit Z-Wave"
+    },
+    "description": {
+        "en": "App to add support for the Heatit Z-Wave devices."
+    },
+    "author": {
+        "name": "Dave Deelen",
+        "email": "wddeelen@hotmail.com"
+    }
+}
